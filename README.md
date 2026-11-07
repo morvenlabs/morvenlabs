@@ -2,7 +2,7 @@
 
 <a href="https://morvenlabs.dev"><img src="assets/hero.svg" alt="Morven. Full-stack engineer, Cochabamba, Bolivia." width="100%"></a>
 
-**[Portfolio · morvenlabs.dev](https://morvenlabs.dev)** &nbsp;·&nbsp; **[Blog · blog.morvenlabs.dev](https://blog.morvenlabs.dev)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/jose-manuel-morales-patty-34137125b/)** &nbsp;·&nbsp; **[hola@morvenlabs.dev](mailto:hola@morvenlabs.dev)**
+**[Portfolio · morvenlabs.dev](https://morvenlabs.dev)** &nbsp;·&nbsp; **[Blog · blog.morvenlabs.dev](https://blog.morvenlabs.dev)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/morvenlabs)** &nbsp;·&nbsp; **[Instagram](https://www.instagram.com/morvenlabs.dev/)** &nbsp;·&nbsp; **[hola@morvenlabs.dev](mailto:hola@morvenlabs.dev)**
 
 </div>
 
@@ -48,10 +48,10 @@ The foundations I reuse on my own projects, public and ready to fork.
 
 | Repository | What it is |
 | --- | --- |
-| [**static-site-template**](https://github.com/MorveN11/static-site-template) | Minimal Astro 7 starter for portfolios and blogs: Tailwind v4, MDX, RSS, nginx image and CI/CD to Dokploy. |
-| [**web-project-template**](https://github.com/MorveN11/web-project-template) | Production-ready monorepo: Hono, Prisma and Postgres API, Next.js with shadcn/ui and Clerk, Docker and GitHub Actions. |
-| [**Yusi**](https://github.com/MorveN11/Yusi) | A programming language interpreted in C#, made for speakers of Quechua. |
-| [**c-sharp-calculator**](https://github.com/MorveN11/c-sharp-calculator) | A calculator built with SOLID, TDD, the Composite pattern and an MST to order operations. |
+| [**static-site-template**](https://github.com/morvenlabs/static-site-template) | Minimal Astro 7 starter for portfolios and blogs: Tailwind v4, MDX, RSS, nginx image and CI/CD to Dokploy. |
+| [**web-project-template**](https://github.com/morvenlabs/web-project-template) | Production-ready monorepo: Hono, Prisma and Postgres API, Next.js with shadcn/ui and Clerk, Docker and GitHub Actions. |
+| [**Yusi**](https://github.com/morvenlabs/Yusi) | A programming language interpreted in C#, made for speakers of Quechua. |
+| [**c-sharp-calculator**](https://github.com/morvenlabs/c-sharp-calculator) | A calculator built with SOLID, TDD, the Composite pattern and an MST to order operations. |
 
 <img src="assets/h-stack.svg" alt="Tools" height="56">
 
