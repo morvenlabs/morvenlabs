@@ -1,19 +1,63 @@
-<h1 align="center">Hi 👋, I'm Manuel Morales</h1>
-<h3 align="center">A passionate developer from Bolivia</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Software Architectures**
+<a href="https://morvenlabs.dev"><img src="assets/hero.svg" alt="Morven. Full-stack engineer, Cochabamba, Bolivia." width="100%"></a>
 
-- 📫 How to reach me **morales.patty.jose@gmail.com**
+**[Portfolio · morvenlabs.dev](https://morvenlabs.dev)** &nbsp;·&nbsp; **[Blog · blog.morvenlabs.dev](https://blog.morvenlabs.dev)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/jose-manuel-morales-patty-34137125b/)** &nbsp;·&nbsp; **[hola@morvenlabs.dev](mailto:hola@morvenlabs.dev)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img src="assets/divider.svg" alt="" width="100%">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morven11&show_icons=true&locale=en&layout=compact" alt="morven11" /></p>
+<img src="assets/h-about.svg" alt="About" height="56">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morven11&show_icons=true&locale=en" alt="morven11" /></p>
+I'm José Manuel Morales, known as Morven: a software engineer from Cochabamba, Bolivia. I design and build web products end to end, from the interface to the API, the database and the deploy pipeline.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morven11&" alt="morven11" /></p>
+Every project below is live, built solo, and shown honestly: what is in production, what is a demo, and what is still on the way. Each one has its own case study on my portfolio, with the decisions behind it.
+
+<img src="assets/h-work.svg" alt="Selected work" height="56">
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://montanabolivia.app"><img src="assets/record-montana.svg" alt="Montana" width="220"></a>
+      <h3>Montana</h3>
+      <p>Operations platform for an ice, water and juice producer: orders, trips, fleet and chat, with a workspace per role.</p>
+      <p><sub>Next.js · .NET · PostgreSQL · Redis · RabbitMQ · SignalR</sub></p>
+      <p><a href="https://montanabolivia.app"><b>Live site</b></a> · <a href="https://morvenlabs.dev/en/projects/montana/">Case study</a></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://resona.morvenlabs.dev"><img src="assets/record-resona.svg" alt="Resona" width="220"></a>
+      <h3>Resona</h3>
+      <p>Music streaming demo with role-based auth, an admin panel and a global player. The catalog is fictional.</p>
+      <p><sub>Next.js · TypeScript · Firebase · shadcn/ui · Zod</sub></p>
+      <p><a href="https://resona.morvenlabs.dev"><b>Live demo</b></a> · <a href="https://morvenlabs.dev/en/projects/resona/">Case study</a></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://chacanos.shop"><img src="assets/record-chacanos.svg" alt="Chacanos" width="220"></a>
+      <h3>Chacanos</h3>
+      <p>Catalog and admin panel for the exclusive Petzl distributor in Bolivia, rebuilt from WordPress. 357 products.</p>
+      <p><sub>Next.js · Hono · Prisma · PostgreSQL · Clerk</sub></p>
+      <p><a href="https://chacanos.shop"><b>Live site</b></a> · <a href="https://morvenlabs.dev/en/projects/chacanos/">Case study</a></p>
+    </td>
+  </tr>
+</table>
+
+<img src="assets/h-templates.svg" alt="Open source" height="56">
+
+The foundations I reuse on my own projects, public and ready to fork.
+
+| Repository | What it is |
+| --- | --- |
+| [**static-site-template**](https://github.com/MorveN11/static-site-template) | Minimal Astro 7 starter for portfolios and blogs: Tailwind v4, MDX, RSS, nginx image and CI/CD to Dokploy. |
+| [**web-project-template**](https://github.com/MorveN11/web-project-template) | Production-ready monorepo: Hono, Prisma and Postgres API, Next.js with shadcn/ui and Clerk, Docker and GitHub Actions. |
+| [**Yusi**](https://github.com/MorveN11/Yusi) | A programming language interpreted in C#, made for speakers of Quechua. |
+| [**c-sharp-calculator**](https://github.com/MorveN11/c-sharp-calculator) | A calculator built with SOLID, TDD, the Composite pattern and an MST to order operations. |
+
+<img src="assets/h-stack.svg" alt="Tools" height="56">
+
+**Languages and frameworks** &nbsp; C# · .NET · TypeScript · JavaScript · React · Next.js · Redux · Hono · Astro
+**Data and infra** &nbsp; PostgreSQL · SQL Server · Prisma · Redis · Docker · Dokploy · GitHub Actions · Jenkins · Git
+
+<img src="assets/h-contact.svg" alt="Say hello" height="56">
+
+Have a product to build or a system to fix? Write to **[hola@morvenlabs.dev](mailto:hola@morvenlabs.dev)**, or read how I work on the **[blog](https://blog.morvenlabs.dev)**.
